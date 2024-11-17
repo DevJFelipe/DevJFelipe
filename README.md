@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome!
 
-![Hello, my name is Juan Felipe Andrade](https://github.com/devjfelipe/banner.png)
+![banner](https://github.com/user-attachments/assets/599b4151-f6da-411d-875a-ffa3a1cf897d)
 
 Hello! 👋 My name is **Juan Felipe Andrade Vargas**. I'm from Neiva, Colombia, currently pursuing a degree in **Software Engineering**. I'm passionate about **web development**, **cloud solutions**, and **artificial intelligence**, with a focus on creating scalable and efficient applications. I enjoy working in fast-paced environments where I can learn and grow, while contributing to impactful projects.
 
